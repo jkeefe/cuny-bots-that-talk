@@ -36,7 +36,9 @@ Let's strive for a no-email class. We'll communicate using Slack, like just abou
 
 Slack is also a great platform for experimentation and prototyping, and we'll be doing some of that, too.
 
-Our Slack is [cunylab.slack.com](https://cunylab.slack.com)
+Our Slack is [cunylab.slack.com](https://cunylab.slack.com).
+
+Please use your full name as your display name, like `johnkeefe`.
 
 ### Github for Code
 
