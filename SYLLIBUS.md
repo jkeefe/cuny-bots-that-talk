@@ -104,24 +104,24 @@ The syllabus, schedule, and activities are subject to change. All changes will b
 
 - Class introduction
 - Introduction to bots and conversational interfaces
-- Build a basic chat bot using Dexter *
+- Build a basic chat bot using Dexter. ([Guide](https://github.com/jkeefe/workshops/tree/master/module-build-a-chatbot)) *
 
 ### Week 2
 
 - Twitter bots as art and utility
-- Build a Twitter Bot *
+- Build a Twitter Bot ([Guide](https://github.com/jkeefe/workshops/tree/master/module-twitter-bot)) *
 
 ### Week 3
 
 - Facebook Messenger bots
-- Build a bot for Facebook Messenger *
+- Build a bot for Facebook Messenger (In the module, start [here](https://github.com/jkeefe/workshops/tree/master/module-messenger-bot#wire-up-to-facebook))*
 
 ### Week 4
 
-- Natural language processing
-- Build an SMS bot using Twilio *
+- Build an SMS bot using Twilio ([Guide](https://github.com/jkeefe/workshops/tree/master/module-sms-bot))*
+- Introducing natural language processing ([Guide](https://github.com/jkeefe/workshops/tree/master/module-sms-add-nlp))
 
 ### Week 5
 
 - Voice interfaces
-- Build an activity for Amazon Alexa *
+- Build an activity for Amazon Alexa ([Guide](https://github.com/jkeefe/workshops/tree/master/module-alexa-fact-skill)) *
